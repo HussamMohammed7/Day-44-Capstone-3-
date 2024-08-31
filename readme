@@ -1,0 +1,27 @@
+i have done these classes with all of it layers and CRUD . 
+Horse
+Participate in Tournament 
+User
+Vet. 
+i have work in the tournament flow of the project , so i have make the relations of it and i have done the realtion of , kinght ,horse , Participate in Tournament ,organizer and tournament . 
+i have done these mehods and endpoint : 
+ -register tournament 
+-get the total earnings of a knight
+-get the average placement of a knight
+-Get Tournament History for Knight
+-get the average placement of a horse
+-Set the placement of a participant
+-Distribute prizes 
+-Start tournament 
+-End tournament
+-Cancel Tournament
+-Get Upcoming Tournaments
+-Reschedule Tournament
+-Check Tournament Capacity
+-Get available horses 
+-Get horses by age 
+-Get horses by color 
+-Get horses by breed
+-Get average rating
+
+ 
